@@ -40,6 +40,7 @@ import {ButtonModule} from"primeng/button";
 import { ConsultaAlunoComponent } from './aluno/consulta-aluno/consulta-aluno.component'
 import { HttpClientModule } from '@angular/common/http';
 import { AlunosModule } from './alunos/alunos.module';
+import { SobreComponent } from './sobre/sobre.component';
 
 @NgModule({
   declarations: [
@@ -59,6 +60,7 @@ import { AlunosModule } from './alunos/alunos.module';
     ModalComponent,
     DataBindingComponent,
     ConsultaAlunoComponent,
+    SobreComponent,
 
     
   ],
