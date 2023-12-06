@@ -41,6 +41,9 @@ import { ConsultaAlunoComponent } from './aluno/consulta-aluno/consulta-aluno.co
 import { HttpClientModule } from '@angular/common/http';
 import { AlunosModule } from './alunos/alunos.module';
 
+import { SobreComponent } from './sobre/sobre.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -59,6 +62,9 @@ import { AlunosModule } from './alunos/alunos.module';
     ModalComponent,
     DataBindingComponent,
     ConsultaAlunoComponent,
+
+    SobreComponent,
+
 
     
   ],
