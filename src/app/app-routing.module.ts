@@ -6,7 +6,7 @@ import { ConsultaAlunoComponent } from './aluno/consulta-aluno/consulta-aluno.co
 import { AlunosListaComponent } from './alunos/alunos-lista/alunos-lista.component';
 import { SobreComponent } from './sobre/sobre.component';
 
-import { SobreComponent } from './sobre/sobre.component';
+
 
 
 const routes: Routes = [

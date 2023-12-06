@@ -42,7 +42,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AlunosModule } from './alunos/alunos.module';
 import { SobreComponent } from './sobre/sobre.component';
 
-import { SobreComponent } from './sobre/sobre.component';
+
 
 
 @NgModule({
