@@ -4,6 +4,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { CadastroAlunosComponent } from './cadastro/cadastro-alunos.component';
 import { ConsultaAlunoComponent } from './aluno/consulta-aluno/consulta-aluno.component';
 import { AlunosListaComponent } from './alunos/alunos-lista/alunos-lista.component';
+import { SobreComponent } from './sobre/sobre.component';
 
 import { SobreComponent } from './sobre/sobre.component';
 

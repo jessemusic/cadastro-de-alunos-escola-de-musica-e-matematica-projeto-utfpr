@@ -22,7 +22,6 @@ export class HeaderComponent {
     onTelaSobre() {
     this.router.navigate(['sobre'], {relativeTo: this.route})
 
-  }
 
 
 }
